@@ -1,4 +1,3 @@
-# WSB App
 
 A simple PHP product management app with MVC structure. Browse and view product listings with details.
 
@@ -30,3 +29,4 @@ wsbapp/
 
 - PHP 7+
 - MySQL
+
